@@ -8,25 +8,25 @@ RailsCasts Episode #209: Devise (revised):
 http://railscasts.com/episodes/209-devise-revised
 
 ## Getting Started
-* Go into the blog-invitable directory.
+*   Go into the blog-invitable directory.
 
-* Set up the following environment variables:
+*   Set up the following environment variables:
 ```
 MAIL_PASSWORD=[your gmail password]
 MAIL_USERNAME=[your gmail username]
 ```
 
-* rake db:migrate
+*   rake db:migrate
 
-* rails s
+*   rails s
 
-* Pull up the app:
+*   Pull up the app:
 
 http://localhost:3000
 
-* Register for an account
+*   Register for an account
 
-* After you're signed up and logged in, go to:
+*   After you're signed up and logged in, go to:
 
 http://localhost:3000/users/invitation/new
 
