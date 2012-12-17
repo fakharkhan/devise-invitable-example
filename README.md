@@ -11,8 +11,10 @@ http://railscasts.com/episodes/209-devise-revised
 * Go into the blog-invitable directory.
 
 * Set up the following environment variables:
+```
 MAIL_PASSWORD=[your gmail password]
 MAIL_USERNAME=[your gmail username]
+```
 
 * rake db:migrate
 
