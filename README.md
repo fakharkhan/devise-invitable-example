@@ -4,7 +4,7 @@ Requires Ruby 1.9.2 or higher.
 
 I borrowed the code from the following railscast and added devise invitable on top of it to learn how it works.
 
-RailsCasts Episode #209: Devise (revised):
+RailsCasts Episode #209: Devise (revised):  
 http://railscasts.com/episodes/209-devise-revised
 
 ## Getting Started
